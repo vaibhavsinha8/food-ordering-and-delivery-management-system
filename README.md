@@ -11,6 +11,25 @@ We will now walk you through the different webpages and features of the website.
 All the images used for the project were copyright free when we used them. If they do belong to someone let me know and we will  remove them.
 <br>
 <br>
+## 📌 Features
+
+- User Registration & Login
+- Browse and Search Food Items
+- Add to Cart and Place Orders
+- Track Order Status
+- Admin Panel for Food and Order Management
+- Real-time Data Handling with MySQL
+  
+## 🛠️ Technologies Used
+
+| Technology       | Description                              |
+|------------------|------------------------------------------|
+| **Java (JDK 8+)**| Core programming language for logic       |
+| **Swing**        | Java GUI framework for building UI       |
+| **MySQL**        | Relational database for storing records  |
+| **JDBC**         | Java API for connecting to MySQL         |
+
+
 ### Login Page
 This is a simple html page which has a form and uses 'post' method to pass on the form values to ***loginCheck.java*** for validating login.
 One can also register a new account if they don't have an existing account.
