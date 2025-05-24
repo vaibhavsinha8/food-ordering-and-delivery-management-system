@@ -86,10 +86,11 @@ Schema is as follows
 ### foodOrder table
 Schema is as follows
 
-![]![Screenshot 2025-05-24 005920](https://github.com/user-attachments/assets/1e144e4c-35bd-4675-843d-364f5065faf1)
+(![Screenshot 2025-05-24 005920](https://github.com/user-attachments/assets/1e144e4c-35bd-4675-843d-364f5065faf1)
 )
 
 ### totalOrder table
 Schema is as follows
 
-![](screen_shots/Screenshot%202019-05-30%20at%2010.22.08%20PM.png)
+(![Screenshot 2025-05-24 005910](https://github.com/user-attachments/assets/cbf161af-44d3-440d-84dc-0472a481f748)
+)
