@@ -3,7 +3,7 @@ food ordering delivery system
 # Food-Ordering-Website
 A food ordering website made using Java, JDBC, JSP and servlets.
 
-We made this project during my 2th semester for my OOPS Java course. We were supposed to use JSP and Servlets for the same.
+We made this project during my 2nd semester for my OOPS Java course. We were supposed to use JSP and Servlets for the same.
 The website was on local host using Tomcat server. JDBC and MYSQL were used to create a database for the application.
 <br>
 <br>
